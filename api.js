@@ -1,6 +1,6 @@
     // api.js
 
-const HF_TOKEN = "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";
+const HF_TOKEN = "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";
 const MODEL = "openai/gpt-oss-120b:groq";
 const BASE_URL = "https://router.huggingface.co/v1";
 
@@ -38,4 +38,5 @@ async function sendToAPI(chatHistory, onLoadingStart, onLoadingEnd, onSuccess, o
     onError(error);
   }
 }
+
 
