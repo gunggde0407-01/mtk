@@ -1,6 +1,6 @@
     // api.js
 
-const HF_TOKEN = "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";
+const HF_TOKEN = "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";
 const MODEL = "openai/gpt-oss-120b:groq";
 const BASE_URL = "https://router.huggingface.co/v1";
 
